@@ -1,1 +1,2 @@
-# com.yuuki.automtp
+# AutoMTP
+手机连接电脑后默认为文件传输模式
